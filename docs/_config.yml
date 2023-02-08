@@ -22,7 +22,7 @@ title: DevOps TL; Dr;
 email: sebastianr@devopstldr.io
 description: >- # this means to ignore newlines until "baseurl:"
   DevOps Tl; Dr; is a service dedicated to Azure Bicep Research
-baseurl: /test # the subpath of your site, e.g. /blog
+baseurl: /docs # the subpath of your site, e.g. /blog
 url: https://rautscode.github.io # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
