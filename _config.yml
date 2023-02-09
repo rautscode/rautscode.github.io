@@ -123,6 +123,9 @@ author:
 # Site Footer
 footer:
   links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin-square"
+      url: "www.linkedin.com/in/sebastiancwiek"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url:
