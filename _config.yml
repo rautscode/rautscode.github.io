@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "TechMindFactory.com"
+title                    : "DevOps Tl; Dr;"
 title_separator          : "-"
-name                     : "Daniel Krzyczkowski"
+name                     : "Sebastian Rautenberg"
 description              : "Technical blog"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -104,36 +104,21 @@ analytics:
 
 # Site Author
 author:
-  name             : "Daniel Krzyczkowski"
-  avatar           : "/images/Author.png"
-  bio              : "Principal Software Engineer<br/>Microsoft Most Valuable Professional"
-  location       : "Poland - Warsaw"
+  name             : "Sebastian Rautenberg"
+  avatar           : "/images/Author.jpeg"
+  bio              : "Cloud and DevOps Architect"
+  location         : "Toronto, Canada"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/DKrzyczkowski"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: mailto:sebastianr@devopstldr.io
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://pl.linkedin.com/in/daniel-krzyczkowski"
-    - label: "Github"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/daniel-krzyczkowski"
-    - label: "YouTube"
-      icon: "fab fa-fw fa-youtube"
-      url: "https://www.youtube.com/channel/UCd1ok8ZkihdRBd8xqcbzxBw"
+      url: "www.linkedin.com/in/sebastiancwiek"
     - label: "Pluralsight"
       icon: "fas fa-fw fa-link"
-      url: "https://www.pluralsight.com/authors/daniel-krzyczkowski"
+      url: ""
 
 # Site Footer
 footer:
