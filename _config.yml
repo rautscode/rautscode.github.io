@@ -108,7 +108,7 @@ author:
   avatar           : "/images/Author.jpeg"
   bio              : "Cloud and DevOps Architect"
   location         : "Toronto, Canada"
-  email            :
+  email            : "sebastianr@devopstldr.io"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
