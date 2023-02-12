@@ -111,6 +111,9 @@ author:
   location         : "Toronto, Canada"
   # email            : "sebastianr@devopstldr.io"
   links:
+    - label: "Hire Me"
+      icon: "fas fa-fw fa-briefcase"
+      url: mailto:sebastianr@devopstldr.io
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:sebastianr@devopstldr.io
