@@ -10,9 +10,9 @@ toc_sticky: true
 show_date: true
 ---
 
-<p align="center">
+<!-- <p align="center">
 <img src="/images/devisland/article98/assets/devsecopsazure-detect-security-incidents-with-sentinel-01.png?raw=true" alt="DevSecOps on Azure - part10"/>
-</p>
+</p> -->
 
 # Introduction
 
