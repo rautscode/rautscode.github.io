@@ -41,3 +41,7 @@ Main subject in the blog page
 Short summary.
 - What did we discuss?
 - What is the main take away?
+
+*If you like my articles, and find them helpful, please buy me a coffee:*
+
+<a href="https://www.buymeacoffee.com/devopstldr" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-red.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
