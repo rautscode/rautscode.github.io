@@ -7,6 +7,7 @@ toc: true
 toc_label: "Unique Title"
 toc_icon: "gear"  # corresponding Font Awesome icon name (without fa prefix)
 toc_sticky: true
+show_date: true
 ---
 
 <p align="center">
