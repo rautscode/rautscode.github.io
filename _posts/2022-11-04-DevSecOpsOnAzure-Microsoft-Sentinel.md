@@ -235,7 +235,7 @@ Then I created a dedicated query for each log type. For tests I created three qu
 
 Here is the code for each query:
 
-#### Get Removed Branch Policies
+### Get Removed Branch Policies
 
 This query gets all the logs for removed branch policies for the Azure DevOps GIT repository:
 
@@ -247,7 +247,7 @@ and
 OperationName contains "Policy.PolicyConfigRemoved"
 ```
 
-#### Get Modified Variable Groups
+### Get Modified Variable Groups
 
 This query gets all modified variable groups in Azure DevOps:
 
@@ -259,7 +259,7 @@ and
 OperationName contains "Library.VariableGroupModified"
 ```
 
-#### Get Installed Extensions
+### Get Installed Extensions
 
 This query gets information about installed extensions in Azure DevOps:
 
