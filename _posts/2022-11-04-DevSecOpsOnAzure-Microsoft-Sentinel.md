@@ -5,7 +5,8 @@ header:
   image: /images/devisland/article98/assets/devsecopsazure-detect-security-incidents-with-sentinel-01.png
 toc: true
 toc_label: "Unique Title"
-toc_icon: "heart"  # corresponding Font Awesome icon name (without fa prefix)
+toc_icon: "gear"  # corresponding Font Awesome icon name (without fa prefix)
+toc_sticky: true
 ---
 
 <p align="center">
