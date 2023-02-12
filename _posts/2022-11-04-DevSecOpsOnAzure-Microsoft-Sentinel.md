@@ -3,6 +3,9 @@ title: "DevSecOps on Azure - part10: Detect and respond to security events in Az
 excerpt: "This article presents how to detect and respond to different security events in Azure and DevOps platforms using Microsoft Sentinel"
 header:
   image: /images/devisland/article98/assets/devsecopsazure-detect-security-incidents-with-sentinel-01.png
+toc: true
+toc_label: "Unique Title"
+toc_icon: "heart"  # corresponding Font Awesome icon name (without fa prefix)
 ---
 
 <p align="center">
