@@ -247,6 +247,7 @@ and
 OperationName contains "Policy.PolicyConfigRemoved"
 ```
 
+
 ### Get Modified Variable Groups
 
 This query gets all modified variable groups in Azure DevOps:

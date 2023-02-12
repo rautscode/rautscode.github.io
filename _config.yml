@@ -107,9 +107,9 @@ analytics:
 author:
   name             : "Sebastian Rautenberg"
   avatar           : "/images/Author.jpeg"
-  bio              : "Cloud and DevOps Architect"
+  bio              : "Just another fanatical Cloud and DevOps architect..."
   location         : "Toronto, Canada"
-  email            : "sebastianr@devopstldr.io"
+  # email            : "sebastianr@devopstldr.io"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -117,9 +117,9 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "www.linkedin.com/in/sebastiancwiek"
-    - label: "Pluralsight"
-      icon: "fas fa-fw fa-link"
-      url: ""
+    # - label: "Pluralsight"
+    #   icon: "fas fa-fw fa-link"
+    #   url: ""
 
 # Site Footer
 footer:
