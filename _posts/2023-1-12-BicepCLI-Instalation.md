@@ -1,6 +1,6 @@
 ---
 title: "Install Azure Bicep CLI"
-excerpt: "This short explains end to end how to install Azure Bicep CLI on Mac and Windows OS.."
+excerpt: "This short explains end to end how to install Azure Bicep CLI on Mac and Windows OS..."
 header:
   image: /images/posts/BicepHome.png
 toc: true
